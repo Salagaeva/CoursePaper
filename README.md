@@ -3,7 +3,7 @@
 ![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php) 
 ![MySQL](https://img.shields.io/badge/MySQL-База_данных-orange?logo=mysql) 
 ![Статус](https://img.shields.io/badge/Статус-Завершено-brightgreen) 
-![Лицензия](https://img.shields.io/badge/Лицензия-Учебная-lightgrey)
+![Цель](https://img.shields.io/badge/Цель-Учебная-lightgrey)
 
 
 

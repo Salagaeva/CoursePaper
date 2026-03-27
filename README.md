@@ -248,6 +248,115 @@ git clone https://github.com/мой проект
 
 ---
 
+##  Визуальное взаиодействие
+
+---
+
+### Административная часть
+
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/admin_panel.jpg" alt="Админ" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Панель администратора с внесёнными данными, полученными как через базу, так и через саму панель.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/before_adding_student.jpg" alt="Админ добавляет студента" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Панель администратора при внесении данных студента в поля.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/after_adding_student.jpg" alt="Админ добавил студента" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Успешное добавление студента в систему.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/before_adding_ teacher.jpg" alt="Админ добавляет преподавателя" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Добавление преподавателя в систему.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/after_adding_teacher.jpg" alt="Админ добавил преподавателя" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Успешное добавление преподавателя в систему.</p>
+</div>
+
+</div>
+
+---
+
+### Преподавательская часть
+
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/teacher_panel.jpg" alt="Преподаватель" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Панель преподавателя при входе в систему.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/add_rating.jpg" alt="Преподаватель добавляет оценку студенту" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Панель добавления оценок с внесёнными данными студента.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/after_adding.jpg" alt="Преподаватель добавил оценку студенту" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Успешное добавление оценки студенту.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/edit_score.jpg" alt="Преподаватель добавляет оценку студенту" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Панель редактирование оценок с внесёнными данными студента.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/After_editing.jpg" alt="Преподаватель добавил оценку студенту" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Успешное редактирование оценки студенту.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/deleting_score.jpg" alt="Преподаватель добавляет оценку студенту" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Удаление оценки у студента.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/after_deleting_score.jpg" alt="Преподаватель добавил оценку студенту" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Успешное удаление оценки студенту.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/before_filter.jpg" alt="Преподаватель добавляет оценку студенту" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Панель преподавателя до фильтра.</p>
+</div>
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/after_filter.jpg" alt="Преподаватель добавил оценку студенту" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Панель преподавателя после фильтра.</p>
+</div>
+
+</div>
+
+---
+
+### Студенческая часть
+
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="text-align: center; width: 300px;">
+    <img src="./picture/student_panel.jpg" alt="Студент" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <p>Панель студента.</p>
+</div>
+
+</div>
+
+---
+
 ## Заключение
 
 В ходе выполнения курсового проекта была разработана информационная система учета успеваемости студентов.
